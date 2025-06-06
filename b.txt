@@ -1,0 +1,24 @@
+ Agentic AI: Empowering Intelligent Autonomy
+Agentic AI refers to artificial intelligence systems that can operate as autonomous agents—capable of perceiving their environment, setting goals, planning, making decisions, and executing actions without continuous human intervention.
+
+Unlike traditional AI models that simply respond to inputs or queries, Agentic AI systems demonstrate initiative, persistence, and adaptability. They are designed to:
+
+Take ownership of tasks and goals.
+
+Coordinate with other agents or tools.
+
+Adapt to new challenges or changing environments.
+
+Reflect on their actions and improve over time.
+
+Agentic AI plays a key role in the next generation of AI applications, such as:
+
+Automated research assistants.
+
+Autonomous coding agents like Devin.
+
+AI project managers that handle multi-step workflows.
+
+Intelligent customer support agents.
+
+Modern frameworks like LangChain, CrewAI, and AutoGen help developers build such systems by combining LLMs (like GPT) with planning, memory, tools, and agent communication.

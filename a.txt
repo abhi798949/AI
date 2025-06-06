@@ -1,0 +1,9 @@
+Python is a high-level, interpreted programming language. It was created by Guido van Rossum and released in 1991.
+
+Python emphasizes code readability and has a simple syntax similar to English. This makes it easy for beginners to learn and use.
+
+It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Python is widely used in web development, data science, machine learning, automation, and software testing.
+
+Its large community and vast library ecosystem make it one of the most popular programming languages in the world.
