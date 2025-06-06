@@ -28,3 +28,4 @@ prompt = "what is AI"
 generated = generate_text(prompt)
 print("Prompt:", prompt)
 print("Generated Text:", generated)
+print("Hello")
